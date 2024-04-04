@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 
 export default function App() {
@@ -10,6 +9,7 @@ export default function App() {
         <a
           href="https://github.com/Raazia-26/weather-react-App"
           target="_blank"
+          rel="noreferrer"
         >
           open-sourced on Github
         </a>
